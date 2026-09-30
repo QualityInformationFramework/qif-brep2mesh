@@ -1,0 +1,5 @@
+# Default: store text with LF in the repository, check out native.
+* text=auto
+
+# QIF documents are data. Never convert their line endings.
+*.qif -text

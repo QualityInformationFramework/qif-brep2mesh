@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# build metadata from `pip install -e .`
+*.egg-info/
+build/
+dist/
